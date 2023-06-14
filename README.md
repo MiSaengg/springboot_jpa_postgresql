@@ -1,4 +1,4 @@
-# springboot_jpa_postgresql
+# Springboot+JPA+PostgreSQL
 
 ```sh
 - src
@@ -23,3 +23,9 @@
     - (Similar structure to main for tests)
 - pom.xml // or build.gradle if you're using Gradle, your build configuration file
 ```
+# Dependencies
+    Lombok
+    Spring Web
+    Spring Data JPA
+    Flyway Migration
+    PostgreSQL Driver
